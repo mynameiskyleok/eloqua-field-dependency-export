@@ -1,6 +1,7 @@
 # eloqua-field-dependency-export
 
-### Description: Simple utility for exporting a pipe-delimited CSV of all Eloqua contact fields and their dependencies. The following fields are exported for each field dependency: 
+### Description
+Simple utility for exporting a pipe-delimited CSV of all Eloqua contact fields and their dependencies. The following fields are exported for each field dependency: 
 
 'Field Name',
 'Field Internal Name',
