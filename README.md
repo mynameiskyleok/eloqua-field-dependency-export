@@ -1,7 +1,6 @@
 # eloqua-field-dependency-export
-<<<<<<< HEAD
 
-Description: Simple utility for exporting a pipe-delimited CSV of all Eloqua contact fields and their dependencies. The following fields are exported for each field dependency: 
+### Description: Simple utility for exporting a pipe-delimited CSV of all Eloqua contact fields and their dependencies. The following fields are exported for each field dependency: 
 
 'Field Name',
 'Field Internal Name',
@@ -18,8 +17,15 @@ Description: Simple utility for exporting a pipe-delimited CSV of all Eloqua con
 'Dependency Last Modified By',
 'Dependency Last Modified Date'
 
+### Install
+From within the local directory you downloaded the source to:
+'''
+npm install
+'''
 
-Use: node eloquaFieldDependencyExport [-COMPANY] [-USERNAME] [-PASSWORD]
-=======
-Simple utility for exporting a pipe-delimited CSV of all Eloqua contact fields and their dependencies.
->>>>>>> FETCH_HEAD
+### Use:
+''' 
+node eloquaFieldDependencyExport [-COMPANY] [-USERNAME] [-PASSWORD]
+'''
+
+
