@@ -20,13 +20,13 @@ Simple utility for exporting a pipe-delimited CSV of all Eloqua contact fields a
 
 ### Install
 From within the local directory you downloaded the source to:
-'''
+```
 npm install
-'''
+```
 
-### Use:
-''' 
+### Use
+```
 node eloquaFieldDependencyExport [-COMPANY] [-USERNAME] [-PASSWORD]
-'''
+```
 
 
